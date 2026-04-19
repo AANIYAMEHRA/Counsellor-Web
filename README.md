@@ -192,7 +192,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact 📞
 
 ## Contributing 
-For any inquiries or questions regarding Counsellor, please contact the project owner: [Sahil Ali ](https://github.com/thestarsahil).
+For any inquiries or questions regarding Counsellor, please contact the project owner: [Aniya Mehra]((https://github.com/AANIYAMEHRA)).
 <p align="center">
   <a href="https://github.com/thestarsahil">
     <img src="https://github.com/thestarsahil.png" width="120" height="120" alt="thestarsahil" />
