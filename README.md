@@ -192,13 +192,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact 📞
 
 ## Contributing 
-For any inquiries or questions regarding Counsellor, please contact the project owner: [Aniya Mehra]((https://github.com/AANIYAMEHRA)).<br>
+For any inquiries or questions regarding Counsellor, please contact the project owner: [Aniya Mehra](https://github.com/AANIYAMEHRA).<br>
 
 Thank you for your interest in Counsellor! We hope it can provide valuable support to those in need.
 =======
 ## Contributors
-<p align="center">
-  <a href="https://github.com/thestarsahil/Counsellor/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=thestarsahil/Counsellor" />
 </a>
 </p>
