@@ -2,13 +2,16 @@ import React from 'react';
 import { FaGithub, FaInstagram, FaFacebook, FaLinkedin, FaSlack, FaDiscord } from "react-icons/fa";
 import './Footer.css';
 
+
+
+
 const Footer = () => {
   return (
     <footer id="footer" className="footer-area">
       <div className="container">
         <div className="link-container">
           <ul className="link">
-            <li><a onClick={()=>window.location.href="/about"}>About Us</a></li>
+            <li><a onClick={()=>window.location.href="/about"} >About Us</a></li>
             <li><a onClick={()=>window.location.href="/blogs"} >Blog</a></li>
             <li><a onClick={()=>window.location.href="/contribute"} >Our Contributors</a></li>
             <li><a onClick={()=>window.location.href="/join-us"} >Join Us</a></li>
@@ -40,5 +43,7 @@ const Footer = () => {
     </footer>
   );
 }
+
+
 
 export default Footer;
