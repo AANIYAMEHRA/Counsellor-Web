@@ -69,6 +69,8 @@ const Contact = () => {
 
 
 
+  
+
   const closeModal = () => {
     setIsModalOpen(false);
   };
@@ -144,5 +146,7 @@ const Contact = () => {
     </main>
   );
 };
+
+
 
 export default Contact;
