@@ -84,10 +84,14 @@
             "github": "https://github.com/",
             "twitter": "https://twitter.com/"
         },
+
+        
         "availableSlots": [
             "Tuesday 1 PM - 3 PM",
             "Thursday 11 AM - 1 PM"
         ],
+
+        
         "personalProjects": [
             {
                 "title": "Full Stack E-Commerce Website",
@@ -101,6 +105,9 @@
             "Docker",
             "Kubernetes"
         ],
+
+
+        
         "certifications": [
             "AWS Certified Solutions Architect",
             "Google Cloud Certified Associate Cloud Engineer"
@@ -110,6 +117,8 @@
             "phone": "+91 XXXXXXXXX"
         }
     },
+
+    
     {
         "id": 3,
         "name": "Vidushi Gandhi",
